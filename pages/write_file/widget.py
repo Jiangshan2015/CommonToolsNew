@@ -3,10 +3,10 @@ from flet import *
 
 def top_tip_widget():
     return Container(
-        Text("备注:写入时如未找到对应图片，序号栏将设置绿色，需要手动填充。不要多次写入同一个文件，会有多个图片覆盖！！！", size=15,
+        Text("备注:如未找到对应图片，序号栏将设置绿色！", size=15,
              color='white'),
         width=600,
-        height=50,
+        height=30,
     )
 
 
