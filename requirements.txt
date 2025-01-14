@@ -1,0 +1,13 @@
+flet>=0.21.0
+flet_multi_page
+openpyxl
+pandas
+openpyxl_image_loader
+pytest-shutil
+pyinstaller
+python-barcode
+qrcode
+notify-py
+apscheduler
+flet-mvc
+notify-py
