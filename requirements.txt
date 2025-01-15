@@ -1,4 +1,5 @@
 flet>=0.21.0
+flet_core
 flet_multi_page
 openpyxl
 pandas
