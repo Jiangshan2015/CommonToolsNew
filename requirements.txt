@@ -1,14 +1,12 @@
 flet>=0.21.0
 flet_core
-flet_multi_page
+flet_components
 openpyxl
-pandas
 openpyxl_image_loader
-pytest-shutil
 pyinstaller
 python-barcode
 qrcode
 notify-py
 apscheduler
 flet-mvc
-notify-py
+-e git+https://github.com/MrYassinox/flet-components.git@main#egg=flet-components
